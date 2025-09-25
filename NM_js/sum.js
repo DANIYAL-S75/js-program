@@ -1,0 +1,10 @@
+x=1000
+y=--x
+y=x
+console.log(y)
+z=1000
+b=--z
+n=b
+console.log(n)
+u=1000
+console.log(--u)
